@@ -7,7 +7,7 @@ Muhammad syawal samir
 
 flowcart manager dan staff di Kantor Telkom
 
-
+![img alt](
 
 ## Penjelasan Mengenai Output
 
