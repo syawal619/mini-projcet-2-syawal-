@@ -11,7 +11,7 @@ flowcart manager dan staff di Kantor Telkom
 
 ## Penjelasan Mengenai Output Manager
 
-1.User Melakukan Login Sederhana Dengan Memasuki Nama Dan Password
+1.User manager Melakukan Login Sederhana Dengan Memasuki Nama Dan Password
 
 ![img alt](https://github.com/syawal619/mini-projcet-2-syawal-/blob/31b59f182b7133508c224a1db875ebd2f6b7ceff/user.png)
 
@@ -42,6 +42,12 @@ Habis Didalam Gudang Telkom Tersebut
 ![img alt](https://github.com/syawal619/mini-projcet-2-syawal-/blob/b99e2bc0e0f652dc95d9f6ef81eb13fd5e6dc2bc/hapus.png)
 
 Semisal Manager Tidak Memilih Dari Ke Tiga Menu Tersebut Maka Program Berhenti Bekerja Dan Pemograman selesai
+
+## Penjelasan Mengenai Ouput Staff
+
+1.user Staff Melakukan Login Sederhana Nama Dan Password
+
+![img alt](
 
 
 
