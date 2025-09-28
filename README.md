@@ -53,9 +53,17 @@ Semisal Manager Tidak Memilih Dari Ke Tiga Menu Tersebut Maka Program Berhenti B
 
 ![img alt](https://github.com/syawal619/mini-projcet-2-syawal-/blob/12bb60df53e2542d8286045e53dde8c76eb71e3b/Menu%20Staff.png)
 
-jadi disini Staff Memilih Nomor 1 yaitu Lihat Kabel
+jadi disini Staff Memilih Nomor 1 yaitu Lihat Kabel 
 
-3.![img alt](
+3.Dan Terakhir Staff Memilih Menu Nomor 2 yaitu Keluar Yang Artinya Program Berhenti
+
+![img alt](https://github.com/syawal619/mini-projcet-2-syawal-/blob/b41140d2c354beded09e599d62ec6a0cb8e522d2/keluar%20program.png)
+
+Jika Staff Sudah Melihat daftar Kabel Apakah Lengkap Maka Staff Memilih Menu Nomor 2 Yaitu Keluar Yang artinya 
+
+Program Berhenti/Selesai
+
+
 
 
 
