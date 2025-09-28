@@ -29,7 +29,15 @@ Nanti akan Muncul nomor 5.Kabel 24
 
 3.Selanjutnya Manager Memilih Update Kabel.nomor berapa kabel Yang Ingin Di Update
 
-![img alt](
+![img alt](https://github.com/syawal619/mini-projcet-2-syawal-/blob/ef8db0855fc11febc22d39483d52676a2bb62b9e/uptade.png)
+
+Saya Disini Memilih  Meng Update Kabel utp Menjadi Kabel Server.Sembarang Pengguna Mau Update Nomor Berapa
+
+Dan Kasih Nama Apa Di Kabel Tersebut
+
+
+
+
 
 
 
