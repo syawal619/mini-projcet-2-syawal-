@@ -49,9 +49,13 @@ Semisal Manager Tidak Memilih Dari Ke Tiga Menu Tersebut Maka Program Berhenti B
 
 ![img alt](https://github.com/syawal619/mini-projcet-2-syawal-/blob/c30584ea09dd6b73c7d300d627c8d054af4b580e/user%20staff.png)
 
-2.User Staff Memilih Menu apa Yang ingin di Pilih 
+2.User Staff Memilih Menu apa Yang ingin di Pilih.pilihan nya disini ada 2 saja
 
-![img alt](
+![img alt](https://github.com/syawal619/mini-projcet-2-syawal-/blob/12bb60df53e2542d8286045e53dde8c76eb71e3b/Menu%20Staff.png)
+
+jadi disini Staff Memilih Nomor 1 yaitu Lihat Kabel
+
+3.![img alt](
 
 
 
