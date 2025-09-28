@@ -17,4 +17,10 @@ flowcart manager dan staff di Kantor Telkom
 
 Setelah user Login maka Akan disapa dan diarahkan Langsung Ke Pemograman
 
+2.Setelah itu akan muncul daftar Kabel dan Disuruh Memilih Menu/Daftar Manager saya
+
+Memulai Dari Tambah Kabel
+
+![img alt](https://github.com/syawal619/mini-projcet-2-syawal-/blob/a809d65fc83f06a2d7063e476618d73d662cc1f7/tambah%20kabel.png)
+
 
