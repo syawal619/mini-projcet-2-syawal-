@@ -17,7 +17,7 @@ flowcart manager dan staff di Kantor Telkom
 
 Setelah user Login maka Akan disapa dan diarahkan Langsung Ke Pemograman
 
-2.Setelah itu akan muncul daftar Kabel dan Disuruh Memilih Menu/Daftar Manager saya
+2.Pilihan 1 itu akan muncul daftar Kabel dan Disuruh Memilih Menu/Daftar Manager s
 
 Memulai Dari Tambah Kabel
 
@@ -27,13 +27,19 @@ Setelah itu Manager memasukkan nama kabel seperti Di gambar Tersebut.Saya Memili
 
 Nanti akan Muncul nomor 5.Kabel 24
 
-3.Selanjutnya Manager Memilih Update Kabel.nomor berapa kabel Yang Ingin Di Update
+3.Pilihan 2 Manager Memilih Update Kabel.nomor berapa kabel Yang Ingin Di Update
 
 ![img alt](https://github.com/syawal619/mini-projcet-2-syawal-/blob/ef8db0855fc11febc22d39483d52676a2bb62b9e/uptade.png)
 
 Saya Disini Memilih  Meng Update Kabel utp Menjadi Kabel Server.Sembarang Pengguna Mau Update Nomor Berapa
 
 Dan Kasih Nama Apa Di Kabel Tersebut
+
+4.Pilihan 3 Manager Disuruh MengHapus Kabel Apa Yang Ingin Di hapus/Kabel Tersebut Sudah 
+
+Habis Didalam Gudang Telkom Tersebut
+
+![img alt](
 
 
 
