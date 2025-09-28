@@ -23,4 +23,10 @@ Memulai Dari Tambah Kabel
 
 ![img alt](https://github.com/syawal619/mini-projcet-2-syawal-/blob/a809d65fc83f06a2d7063e476618d73d662cc1f7/tambah%20kabel.png)
 
+Setelah itu Manager memasukkan nama kabel seperti Di gambar Tersebut.Saya Memilih Kabel 24
+
+Nanti akan Muncul 5.Kabel 24
+
+
+
 
