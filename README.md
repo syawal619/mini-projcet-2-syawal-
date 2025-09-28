@@ -25,7 +25,13 @@ Memulai Dari Tambah Kabel
 
 Setelah itu Manager memasukkan nama kabel seperti Di gambar Tersebut.Saya Memilih Kabel 24
 
-Nanti akan Muncul 5.Kabel 24
+Nanti akan Muncul nomor 5.Kabel 24
+
+3.Selanjutnya Manager Memilih Update Kabel.nomor berapa kabel Yang Ingin Di Update
+
+![img alt](
+
+
 
 
 
