@@ -39,7 +39,9 @@ Dan Kasih Nama Apa Di Kabel Tersebut
 
 Habis Didalam Gudang Telkom Tersebut
 
-![img alt](
+![img alt](https://github.com/syawal619/mini-projcet-2-syawal-/blob/b99e2bc0e0f652dc95d9f6ef81eb13fd5e6dc2bc/hapus.png)
+
+Semisal Manager Tidak Memilih Dari Ke Tiga Menu Tersebut Maka Program Berhenti Bekerja Dan Pemograman selesai
 
 
 
