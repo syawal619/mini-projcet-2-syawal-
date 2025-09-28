@@ -47,6 +47,10 @@ Semisal Manager Tidak Memilih Dari Ke Tiga Menu Tersebut Maka Program Berhenti B
 
 1.user Staff Melakukan Login Sederhana Nama Dan Password
 
+![img alt](https://github.com/syawal619/mini-projcet-2-syawal-/blob/c30584ea09dd6b73c7d300d627c8d054af4b580e/user%20staff.png)
+
+2.User Staff Memilih Menu apa Yang ingin di Pilih 
+
 ![img alt](
 
 
