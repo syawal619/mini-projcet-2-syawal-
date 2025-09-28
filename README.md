@@ -7,7 +7,7 @@ Muhammad syawal samir
 
 flowcart manager dan staff di Kantor Telkom
 
-![img alt](
+![img alt](https://github.com/syawal619/mini-projcet-2-syawal-/blob/ee7e2311f2f7bcfde1ac8f73b8913f646fb5d1d3/flowcart%20update.png)
 
 ## Penjelasan Mengenai Output
 
